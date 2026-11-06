@@ -1,0 +1,11 @@
+# Target directories
+**/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
